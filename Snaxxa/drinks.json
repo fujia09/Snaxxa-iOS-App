@@ -1,0 +1,81 @@
+[
+    {
+        "id":1001,
+        "name":"ATM Tomato & Plum",
+        "imageName":"Andy",
+        "description":" Hi, we are Andy and Mike!\n Our product is a Taiwan traditional snack called tomato and plum. The dish combines plum within the tomato and has a special taste. During festivals, people would make and enjoy this snack because it is convenient to make.",
+        "category":"cold"
+    },
+    {
+        "id":1002,
+        "name":"Sau-tteok",
+        "imageName":"Seo",
+        "description":" Hi, we are Seohyeon and Jihyun!\n Our product is Sau-tteok, which is one of Korea’s most popular snacks in current years. The name of Sau-tteok came from, ‘Sau’ which is short for Sausage and ‘Tteok’ which is Rice cake in Korean. Sau-tteok is one of the street foods of South Korea, it is a hot dish that is eaten with rice cake, Vienna sausage on skewers,and mustard sauce or red pepper paste-based seasoning on rice cake and sausage.",
+        "category":"cold"
+    },
+    {
+        "id":1003,
+        "name":"Bibimbap",
+        "imageName":"Sophia",
+        "description":" Hi, we are Sophia and Yewon!\n Our product is Bibimbap, sometimes romanized as bi bim bap or bi bim bop, is a Korean rice dish. The term bibim means mixing rice, while the bap noun refers to rice. Bibimbap is served as a bowl of warm white rice topped with namul or kimchi and gochujang, soy sauce, or doenjang.",
+        "category":"cold"
+    },
+    {
+        "id":1004,
+        "name":"Cantonese Lemon Tea",
+        "imageName":"Fay Fay",
+        "description":" Hi, we are Fay Fay and Jisook!\n Our product is Cantonese lemon tea, which is a common tea drink sold in Hong Kong, made with black tea, syrup, and lemon.",
+        "category":"cold"
+    },
+    {
+        "id":1005,
+        "name":"Brigadeiro Gourmet",
+        "imageName":"Oscar",
+        "description":" Hi, we are Fay Fay and Jisook!\n Our product is Brigadeiros, which are small chocolate shaped balls and that are covered with chocolate sprinkles. They are very popular in Brazil and are made from condensed milk, cocoa powder, and chocolate sprinkles.",
+        "category":"cold"
+    },
+    {
+        "id":1006,
+        "name":"Pikachu Pork Cutlet",
+        "imageName":"Mingeon",
+        "description":" Hi, we are Mingeon and Hansol!\n Our product is a Pikachu Pork Cutlet! Although pork cutlet is not Korean (neither pikachu, they are both japanese), this specific foodt is an old snack that was only sold in Korea back in the days. Although this snack is not sold anymore, our group Churai decided to rise this snack from the dead for everyone to have a bite of Korea's old snack.",
+        "category":"cold"
+    },
+    {
+        "id":1007,
+        "name":"Toast",
+        "imageName":"Junha",
+        "description":" Hi, we are Junha and Kangmin!\n We are making a korean toast snack with toppings of corn, tomato sauce, bacon, and cheese.",
+        "category":"cold"
+    },
+    {
+        "id":1008,
+        "name":"Sliced Potatoes",
+        "imageName":"Minseong",
+        "description":" Hi, we are Minseong and Victor!\n Our product is sliced potatoes. The reason that we chose to make this product is that it is a street food and it has unique shape which potato looks like tornado.",
+        "category":"cold"
+    },
+    {
+        "id":1009,
+        "name":"Chicken with Coke",
+        "imageName":"Myeonje",
+        "description":" Hi, we are Myeonje and Taegeon!\n We are making chicken with coke. In korea we eat this food a lot in special events such as soccer matches and parties.",
+        "category":"cold"
+    }
+    ,
+    {
+        "id":1010,
+        "name":"Gimbap",
+        "imageName":"Minsang",
+        "description":" Hi, we are Minsang and Dongjin!\n We are making Gimbap. Gimbap, is a seaweed rice roll made of gim (a sheet of dried seaweed) and bap (rice).",
+        "category":"cold"
+    }
+    ,
+    {
+        "id":1011,
+        "name":"Lao Gan Ma Fried Rice",
+        "imageName":"Charlie",
+        "description":" Hi, we are Charlie and Tom!\n We are making Lao Gan Ma Fried Rice. Lao Gan Ma Fried Rice is a very simple chinese comfort food. It consists of a bowl of rice covered with some Lao Gan Ma sauce.",
+        "category":"cold"
+    }
+]
